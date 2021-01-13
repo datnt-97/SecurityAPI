@@ -1,0 +1,9 @@
+C:\Users\soole\source\repos\SecurityAPI\bin\Debug\netcoreapp3.1\SecurityAPI.deps.json
+C:\Users\soole\source\repos\SecurityAPI\bin\Debug\netcoreapp3.1\SecurityAPI.dll
+C:\Users\soole\source\repos\SecurityAPI\obj\Debug\netcoreapp3.1\SecurityAPI.csprojAssemblyReference.cache
+C:\Users\soole\source\repos\SecurityAPI\obj\Debug\netcoreapp3.1\SecurityAPI.AssemblyInfoInputs.cache
+C:\Users\soole\source\repos\SecurityAPI\obj\Debug\netcoreapp3.1\SecurityAPI.AssemblyInfo.cs
+C:\Users\soole\source\repos\SecurityAPI\bin\Debug\netcoreapp3.1\SecurityAPI.pdb
+C:\Users\soole\source\repos\SecurityAPI\obj\Debug\netcoreapp3.1\SecurityAPI.dll
+C:\Users\soole\source\repos\SecurityAPI\obj\Debug\netcoreapp3.1\SecurityAPI.pdb
+C:\Users\soole\source\repos\SecurityAPI\obj\Debug\netcoreapp3.1\SecurityAPI.csproj.CoreCompileInputs.cache
